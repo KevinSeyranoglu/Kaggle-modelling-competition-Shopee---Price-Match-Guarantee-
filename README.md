@@ -4,7 +4,7 @@ https://www.kaggle.com/c/shopee-product-matching
 
 
 
-The goal of this challenge is to find the Tuplicates in large datasets. 
+The goal of this challenge is to find the duplicates in large datasets. 
 
 
 
