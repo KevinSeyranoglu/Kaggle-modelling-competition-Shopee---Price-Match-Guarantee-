@@ -4,8 +4,12 @@ https://www.kaggle.com/c/shopee-product-matching
 
 
 
-The goal of this challenge is to find the duplicates in large datasets. 
+The goal of this challenge is to find the Tuplicates in large datasets. 
 
+
+
+
+## Data
 the training set metadata. Each row contains the data for a single posting. Multiple postings might have the exact same image ID, but with different titles or vice versa.
 posting_id - the ID code for the posting.
 
